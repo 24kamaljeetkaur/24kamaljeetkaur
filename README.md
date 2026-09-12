@@ -173,4 +173,4 @@ CI/CD / MLOps
 
 💻 GitHub: [24kamaljeetkaur](https://github.com/24kamaljeetkaur)
 
-🌐 Portfolio: [My Portfolio](https://design-buildsolution.web.app/)
+🌐 Portfolio: [My Portfolio]([https://design-buildsolution.web.app/](https://design-build-solution.web.app/kamaljeet-resume))
