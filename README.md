@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kamaljeet Kaur
 
-### 🐍 Python Developer | Django | REST APIs | GenAI & Agentic AI
+### Python Developer | Django | REST APIs | GenAI & Agentic AI
 
 I'm a **Python Developer** focused on building backend applications, REST APIs, AI-powered solutions, and intelligent agent systems.
 
