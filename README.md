@@ -34,14 +34,43 @@ Outside of full-time work, I prototype with **LangChain, RAG, LangGraph, and age
 
 ## Career Journey
 
-<table>
-<tr><td><b>Mar 2025 — Present</b></td><td><b>Full Stack Engineer</b>, Vriddhi Advisors Ltd. (Sofficio.com)<br/><sub>Sole full-stack owner of a financial SaaS platform across 5 modules — API design, auth, SQL performance, production debugging.</sub></td></tr>
-<tr><td><b>Mar 2023 — Feb 2024</b></td><td><b>Web Developer</b>, Amandeep Group of Hospitals<br/><sub>Built a multi-site hospital digital ecosystem (15+ portals), a centralized lead-capture dashboard, and Angular reporting tools.</sub></td></tr>
-<tr><td><b>Sep 2021 — Feb 2023</b></td><td><b>Web Developer</b>, Deepdive Innovations Pvt. Ltd.<br/><sub>Owned client web projects end-to-end using HTML5, JavaScript and Angular.</sub></td></tr>
-<tr><td><b>Feb 2019 — Sep 2020</b></td><td><b>Web Designer &amp; Developer Trainer</b>, CKD Institute of Management and Technology<br/><sub>Digitized paper-based college workflows in Angular; trained staff and students on the new systems.</sub></td></tr>
-<tr><td><b>Dec 2017 — Jan 2019</b></td><td><b>WordPress Developer</b>, Design To Webber &amp; OXO Solution Pvt. Ltd.<br/><sub>Delivered WordPress themes, plugins and full sites for international clients.</sub></td></tr>
-<tr><td><b>2019 — 2022</b></td><td><b>MCA</b>, Guru Nanak Dev University, Amritsar</td></tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,100:0B0F1A&height=2&section=header&animation=fadeIn" width="100%"/>
+
+**🟢 Mar 2025 — Present · Full Stack Engineer**
+<br/><sub>Vriddhi Advisors Ltd. — Sofficio.com (Financial SaaS)</sub>
+<br/>Sole full-stack owner of a financial SaaS platform across 5 modules — API design, auth, SQL performance, production debugging.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+
+**🔵 Mar 2023 — Feb 2024 · Web Developer**
+<br/><sub>Amandeep Group of Hospitals</sub>
+<br/>Built a multi-site hospital digital ecosystem (15+ portals), a centralized lead-capture dashboard, and Angular reporting tools.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+
+**🔵 Sep 2021 — Feb 2023 · Web Developer**
+<br/><sub>Deepdive Innovations Pvt. Ltd.</sub>
+<br/>Owned client web projects end-to-end using HTML5, JavaScript and Angular.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+
+**🔵 Feb 2019 — Sep 2020 · Web Designer & Developer Trainer**
+<br/><sub>CKD Institute of Management and Technology, Amritsar</sub>
+<br/>Digitized paper-based college workflows in Angular; trained staff and students on the new systems.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+
+**🔵 Dec 2017 — Jan 2019 · WordPress Developer**
+<br/><sub>Design To Webber & OXO Solution Pvt. Ltd.</sub>
+<br/>Delivered WordPress themes, plugins and full sites for international clients.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:FFD43B,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+
+**🎓 2019 — 2022 · MCA**
+<br/><sub>Guru Nanak Dev University, Amritsar</sub>
+<br/>Master of Computer Applications — the foundation behind the OOP and systems work since.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
