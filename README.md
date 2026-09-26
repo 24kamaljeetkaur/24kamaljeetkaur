@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Kamaljeet%20Kaur-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://design-buildsolution.web.app/kamaljeet-resume">
+<a href="https://design-build-solution.web.app/kamaljeet-resume">
 <img src="https://img.shields.io/badge/Resume-View%20Resume-3776AB?style=for-the-badge&logo=googlechrome"/>
 </a>
 
@@ -557,21 +557,17 @@ Monitoring
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=24kamaljeetkaur&theme=github_dark"
-  width="48%"
+  width="30%"
   alt="Kamaljeet Kaur GitHub Stats"
 />
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=24kamaljeetkaur&theme=github_dark"
-  width="48%"
+  width="30%"
   alt="Kamaljeet Kaur Top Languages"
 />
-
-<br><br>
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=24kamaljeetkaur&theme=github_dark"
-  width="48%"
+  width="30%"
   alt="Kamaljeet Kaur Most Commit Language"
 />
 
@@ -701,28 +697,17 @@ DOCKER / KUBERNETES
 
 # 💻 Developer Workflow
 
-```text
-01  Understand
-        ↓
-02  Design
-        ↓
-03  Develop
-        ↓
-04  Integrate
-        ↓
-05  Test
-        ↓
-06  Debug
-        ↓
-07  Optimize
-        ↓
-08  Deploy
-        ↓
-09  Monitor
-        ↓
-10  Improve
-```
+<div align="center">
 
+<img
+  src="developer-workflow.png"
+  width="100%"
+  alt="Developer Workflow"
+/>
+
+</div>
+
+---
 ---
 
 # 🌟 GitHub Repository Highlights
@@ -732,21 +717,12 @@ DOCKER / KUBERNETES
 <a href="https://github.com/24kamaljeetkaur/skin-disease-detection-django">
 <img src="https://img.shields.io/badge/🩺_Skin_Detection-Django%20%7C%20AI-3776AB?style=for-the-badge"/>
 </a>
-
-<br><br>
-
 <a href="https://github.com/24kamaljeetkaur/ats_checker_resumes">
 <img src="https://img.shields.io/badge/📄_ATS_Checker-Django%20%7C%20NLP-3776AB?style=for-the-badge"/>
 </a>
-
-<br><br>
-
 <a href="https://github.com/24kamaljeetkaur/leadgen">
 <img src="https://img.shields.io/badge/🎯_LeadGen-Agentic%20AI-3776AB?style=for-the-badge"/>
 </a>
-
-<br><br>
-
 <a href="https://github.com/24kamaljeetkaur/python-problem-solving">
 <img src="https://img.shields.io/badge/🧩_Python_Problems-OOP%20%7C%20NumPy%20%7C%20Pandas-3776AB?style=for-the-badge"/>
 </a>
@@ -771,7 +747,7 @@ I'm interested in opportunities and projects around:
 <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://design-buildsolution.web.app/kamaljeet-resume">
+<a href="https://design-build-solution.web.app/kamaljeet-resume">
 <img src="https://img.shields.io/badge/📄_Resume-View_Profile-3776AB?style=for-the-badge"/>
 </a>
 
@@ -781,9 +757,6 @@ I'm interested in opportunities and projects around:
 
 <div align="center">
 
-### ⭐ Build. Learn. Ship. Improve.
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,35:3776AB,70:4B8BBE,100:FFD43B&height=140&section=footer&animation=fadeIn" width="100%"/>
 
