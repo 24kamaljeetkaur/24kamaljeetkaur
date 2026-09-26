@@ -700,7 +700,7 @@ DOCKER / KUBERNETES
 <div align="center">
 
 <img
-  src="developer-workflow.png"
+  src="./developer-workflow.png"
   width="100%"
   alt="Developer Workflow"
 />
