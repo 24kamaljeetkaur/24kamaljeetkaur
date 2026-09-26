@@ -1,176 +1,97 @@
-# 👋 Hi, I'm Kamaljeet Kaur
+<div align="center">
 
-### Python Developer | Django | REST APIs | GenAI & Agentic AI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:FFD43B&height=200&section=header&text=Kamaljeet%20Kaur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20REST%20APIs%20%7C%20GenAI%20%26%20Agentic%20AI&descAlignY=58&descSize=20" width="100%"/>
 
-I'm a **Python Developer** focused on building backend applications, REST APIs, AI-powered solutions, and intelligent agent systems.
+<a href="https://linkedin.com/in/kamaljeet-kaur-624249181">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Full-Stack+Django+Engineer;Building+GenAI+%26+Agentic+Systems;Sole+owner+of+a+live+financial+SaaS+platform;Exploring+LangChain%2C+RAG+%26+MCP" />
+</a>
 
-I enjoy turning real-world problems into practical software using **Python, Django, FastAPI, LangChain, RAG, and Agentic AI**.
+<br/>
 
----
+<a href="https://linkedin.com/in/kamaljeet-kaur-624249181"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/24kamaljeetkaur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://design-buildsolution.web.app/kamaljeet-resume"><img src="https://img.shields.io/badge/Portfolio-4B8BBE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:kaurkamaljeet.mehra@gmail.com"><img src="https://img.shields.io/badge/Email-FFD43B?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 
-## 🚀 About Me
+</div>
 
-* 🔭 Currently working on **Python, Django & AI-powered applications**
-* 🐍 Strong focus on **Python & Backend Development**
-* 🌐 Building **REST APIs with Django REST Framework & FastAPI**
-* 🤖 Exploring **Generative AI & Agentic AI**
-* 🧠 Working with **RAG, LLMs, Tool Calling, Memory & AI Agents**
-* 🔗 Exploring **MCP, Multi-Agent Systems & A2A**
-* ☁️ Learning and working with **GCP & Cloud technologies**
-* 🐳 Interested in **Docker, Kubernetes & CI/CD**
-* 💡 I love building practical projects and learning new technologies
+<br/>
 
----
+## About Me
 
-## 💻 Tech Stack
+I'm a **Python / Django engineer** building backend applications, REST APIs, and AI-powered systems — currently the sole full-stack owner of a live financial SaaS platform, spanning API design, authentication, SQL performance, and production debugging.
 
-### 🐍 Programming & Backend
+Outside of full-time work, I prototype with **LangChain, RAG, LangGraph, and agentic AI** — including a self-hosted lead-generation agent and a Gemini-Vision-powered image pipeline for e-commerce.
 
-Python • Django • Django REST Framework • Flask • FastAPI • REST APIs • OOP
+- 🔭 Currently working on **Python, Django & AI-powered applications**
+- 🤖 Exploring **Generative AI, Agentic AI, RAG & MCP**
+- ☁️ Learning **GCP, Docker, Kubernetes & CI/CD**
+- 💡 I like turning ambiguous requirements into shipped, working systems
 
-### 🤖 AI / GenAI
+<br/>
 
-Generative AI • Agentic AI • LLMs • LangChain • LangGraph • RAG • Vector Databases • Tool Calling • AI Agents • Memory • MCP • Multi-Agent Systems
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:10162A&height=3&section=header&animation=fadeIn" width="100%"/>
 
-### 🗄️ Databases
+## Career Journey
 
-MySQL • PostgreSQL • SQLite • MongoDB • ChromaDB • FAISS
+<table>
+<tr><td><b>Mar 2025 — Present</b></td><td><b>Full Stack Engineer</b>, Vriddhi Advisors Ltd. (Sofficio.com)<br/><sub>Sole full-stack owner of a financial SaaS platform across 5 modules — API design, auth, SQL performance, production debugging.</sub></td></tr>
+<tr><td><b>Mar 2023 — Feb 2024</b></td><td><b>Web Developer</b>, Amandeep Group of Hospitals<br/><sub>Built a multi-site hospital digital ecosystem (15+ portals), a centralized lead-capture dashboard, and Angular reporting tools.</sub></td></tr>
+<tr><td><b>Sep 2021 — Feb 2023</b></td><td><b>Web Developer</b>, Deepdive Innovations Pvt. Ltd.<br/><sub>Owned client web projects end-to-end using HTML5, JavaScript and Angular.</sub></td></tr>
+<tr><td><b>Feb 2019 — Sep 2020</b></td><td><b>Web Designer &amp; Developer Trainer</b>, CKD Institute of Management and Technology<br/><sub>Digitized paper-based college workflows in Angular; trained staff and students on the new systems.</sub></td></tr>
+<tr><td><b>Dec 2017 — Jan 2019</b></td><td><b>WordPress Developer</b>, Design To Webber &amp; OXO Solution Pvt. Ltd.<br/><sub>Delivered WordPress themes, plugins and full sites for international clients.</sub></td></tr>
+<tr><td><b>2019 — 2022</b></td><td><b>MCA</b>, Guru Nanak Dev University, Amritsar</td></tr>
+</table>
 
-### ☁️ Cloud & DevOps
+<br/>
 
-Google Cloud Platform (GCP) • Azure Basics • Docker • Git • GitHub • CI/CD
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:10162A&height=3&section=header&animation=fadeIn" width="100%"/>
 
-### 🌐 Web Development
+## Tech Stack
 
-HTML5 • CSS3 • JavaScript • Bootstrap • WordPress
+**Languages & Backend**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### 🛠️ Developer Tools
+**AI / GenAI**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-Git • GitHub • Postman • VS Code • Linux/Unix
+**Databases & Cloud**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+**Frontend**
+<br/>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🚀 Featured Projects
+<br/>
 
-### 🤖 Django LangChain AI Agent
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:10162A&height=3&section=header&animation=fadeIn" width="100%"/>
 
-Enterprise-style AI Agent built with:
+## GitHub Stats
 
-**Python • Django • LangChain • LangGraph • RAG • Vector Database • MCP • Groq LLM • REST APIs**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=24kamaljeetkaur&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24kamaljeetkaur&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-Features:
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=24kamaljeetkaur&theme=tokyonight&hide_border=true"/>
+</div>
 
-* 📄 Document Q&A
-* 🔎 RAG-based knowledge retrieval
-* 🧠 Conversation memory
-* 🛠️ AI tool calling
-* 🤖 AI agent workflows
-* 🔌 REST APIs
+<br/>
 
----
-
-### 🩺 Skin Disease Detection
-
-AI-powered skin analysis application built with:
-
-**Python • Django • CNN • TensorFlow • Computer Vision**
-
-Features:
-
-* 📷 Skin image analysis
-* 🤖 CNN-based classification
-* 📊 Prediction confidence
-* 👤 User authentication
-* 📈 Analysis dashboard
-
----
-
-### 🎓 IntelliCampus
-
-AI-powered application using:
-
-**Python • Django • RAG • Structured Data**
-
-Designed to provide intelligent information retrieval and AI-assisted functionality.
-
----
-
-### 🎯 AI Lead Generation Agent
-
-Automated lead-generation system using:
-
-**Python • Django • AI Agents • Web Search • Lead Scoring**
-
-Features:
-
-* 🔎 Business prospect discovery
-* 🎯 Lead scoring
-* 📊 Campaign management
-* 📧 Outreach workflow
-* 🤖 AI-assisted lead qualification
-
----
-
-### 🏠 Jass Carpets
-
-Full-stack Django business website and management system.
-
-**Python • Django • SQLite • HTML • CSS • JavaScript**
-
-Features:
-
-* 🛒 Product management
-* 🖼️ Gallery
-* 📩 Customer inquiries
-* 👨‍💼 Admin dashboard
-* 🤖 AI-powered carpet placement features
-
----
-
-## 📚 Currently Learning
-
-```text
-MCP
- ↓
-MCP Client & Server
- ↓
-Gemini
- ↓
-Google ADK
- ↓
-Multi-Agent Systems
- ↓
-A2A
- ↓
-AI Evaluation
- ↓
-Observability
- ↓
-Docker / Kubernetes
- ↓
-CI/CD / MLOps
-```
-
----
-
-## 📊 GitHub Stats
-
-![Kamaljeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=24kamaljeetkaur\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24kamaljeetkaur\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=24kamaljeetkaur\&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-💼 LinkedIn: [Kamaljeet Kaur](https://www.linkedin.com/in/kamaljeet-kaur-624249181/)
-
-💻 GitHub: [24kamaljeetkaur](https://github.com/24kamaljeetkaur)
-
-🌐 Portfolio: [My Portfolio](https://design-build-solution.web.app/kamaljeet-resume)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:FFD43B&height=120&section=footer&animation=fadeIn"/>
