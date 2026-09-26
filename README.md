@@ -585,11 +585,15 @@ Monitoring
 
 ---
 
-# 🐍 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/24kamaljeetkaur/24kamaljeetkaur/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=24kamaljeetkaur&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="Kamaljeet Kaur GitHub Contribution Graph"
+/>
 
 </div>
 
