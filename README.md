@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:FFD43B&height=200&section=header&text=Kamaljeet%20Kaur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20REST%20APIs%20%7C%20GenAI%20%26%20Agentic%20AI&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://linkedin.com/in/kamaljeet-kaur-624249181">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Full-Stack+Django+Engineer;Building+GenAI+%26+Agentic+Systems;Sole+owner+of+a+live+financial+SaaS+platform;Exploring+LangChain%2C+RAG+%26+MCP" />
-</a>
 
 <br/>
 
@@ -17,11 +15,11 @@
 
 <br/>
 
-## About Me
+## 👩‍💻 About Me
 
 I'm a **Python / Django engineer** building backend applications, REST APIs, and AI-powered systems — currently the sole full-stack owner of a live financial SaaS platform, spanning API design, authentication, SQL performance, and production debugging.
 
-Outside of full-time work, I prototype with **LangChain, RAG, LangGraph, and agentic AI** — including a self-hosted lead-generation agent and a Gemini-Vision-powered image pipeline for e-commerce.
+Outside full-time work, I prototype with **LangChain, RAG, LangGraph, and agentic AI** — including a self-hosted lead-generation agent and a Gemini-Vision-powered image pipeline for e-commerce.
 
 - 🔭 Currently working on **Python, Django & AI-powered applications**
 - 🤖 Exploring **Generative AI, Agentic AI, RAG & MCP**
@@ -30,53 +28,138 @@ Outside of full-time work, I prototype with **LangChain, RAG, LangGraph, and age
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:10162A&height=3&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=3&section=header&animation=fadeIn" width="100%"/>
 
-## Career Journey
+## 🧭 My Journey
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,100:0B0F1A&height=2&section=header&animation=fadeIn" width="100%"/>
+<table>
+<tr>
+<td align="right" width="120" valign="top"><b>2025<br/>Present</b></td>
+<td align="center" width="24" valign="top">🟢<br/>│<br/>│</td>
+<td valign="top">
+<b>Full Stack Engineer</b> — Vriddhi Advisors Ltd. <sub>(Sofficio.com, Financial SaaS)</sub><br/>
+Sole full-stack owner of a financial SaaS platform across 5 modules — API design, auth, SQL performance, production debugging.
+</td>
+</tr>
+<tr>
+<td align="right" width="120" valign="top"><b>2023<br/>2024</b></td>
+<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td valign="top">
+<b>Web Developer</b> — Amandeep Group of Hospitals<br/>
+Built a multi-site hospital digital ecosystem (15+ portals), a centralized lead-capture dashboard, and Angular reporting tools.
+</td>
+</tr>
+<tr>
+<td align="right" width="120" valign="top"><b>2021<br/>2023</b></td>
+<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td valign="top">
+<b>Web Developer</b> — Deepdive Innovations Pvt. Ltd.<br/>
+Owned client web projects end-to-end using HTML5, JavaScript and Angular.
+</td>
+</tr>
+<tr>
+<td align="right" width="120" valign="top"><b>2019<br/>2020</b></td>
+<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td valign="top">
+<b>Web Designer &amp; Developer Trainer</b> — CKD Institute of Management and Technology, Amritsar<br/>
+Digitized paper-based college workflows in Angular; trained staff and students on the new systems.
+</td>
+</tr>
+<tr>
+<td align="right" width="120" valign="top"><b>2017<br/>2019</b></td>
+<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td valign="top">
+<b>WordPress Developer</b> — Design To Webber &amp; OXO Solution Pvt. Ltd.<br/>
+Delivered WordPress themes, plugins and full sites for international clients.
+</td>
+</tr>
+<tr>
+<td align="right" width="120" valign="top"><b>2019<br/>2022</b></td>
+<td align="center" width="24" valign="top">🎓</td>
+<td valign="top">
+<b>MCA</b> — Guru Nanak Dev University, Amritsar<br/>
+The foundation behind the OOP and systems design work since.
+</td>
+</tr>
+</table>
 
-**🟢 Mar 2025 — Present · Full Stack Engineer**
-<br/><sub>Vriddhi Advisors Ltd. — Sofficio.com (Financial SaaS)</sub>
-<br/>Sole full-stack owner of a financial SaaS platform across 5 modules — API design, auth, SQL performance, production debugging.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=3&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+## 🚀 Featured Projects
 
-**🔵 Mar 2023 — Feb 2024 · Web Developer**
-<br/><sub>Amandeep Group of Hospitals</sub>
-<br/>Built a multi-site hospital digital ecosystem (15+ portals), a centralized lead-capture dashboard, and Angular reporting tools.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+**🧵 JassCarpets — AI Room-Preview E-Commerce**
+<br/><sub>Django · Gemini Vision API · NumPy · Three.js/WebXR</sub>
 
-**🔵 Sep 2021 — Feb 2023 · Web Developer**
-<br/><sub>Deepdive Innovations Pvt. Ltd.</sub>
-<br/>Owned client web projects end-to-end using HTML5, JavaScript and Angular.
+Live Django platform where customers preview carpets in their own room. Vectorized the image-compositing pipeline with NumPy to cut processing time, and added a WebXR/Three.js AR viewer.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+[🔗 jasscarpets.com](https://jasscarpets.com)
 
-**🔵 Feb 2019 — Sep 2020 · Web Designer & Developer Trainer**
-<br/><sub>CKD Institute of Management and Technology, Amritsar</sub>
-<br/>Digitized paper-based college workflows in Angular; trained staff and students on the new systems.
+</td>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:7FE0C9,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+**🩺 Skin Disease Detection (CNN)**
+<br/><sub>Django · TensorFlow · Keras · EfficientNetB0</sub>
 
-**🔵 Dec 2017 — Jan 2019 · WordPress Developer**
-<br/><sub>Design To Webber & OXO Solution Pvt. Ltd.</sub>
-<br/>Delivered WordPress themes, plugins and full sites for international clients.
+Django app that classifies skin images into 8 disease categories using an EfficientNetB0 transfer-learning model, with a full evaluation dashboard and confusion-matrix tracking.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,50:FFD43B,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+[🔗 GitHub Repo](https://github.com/24kamaljeetkaur/skin-disease-detection-django)
 
-**🎓 2019 — 2022 · MCA**
-<br/><sub>Guru Nanak Dev University, Amritsar</sub>
-<br/>Master of Computer Applications — the foundation behind the OOP and systems work since.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:4B8BBE&height=2&section=header&animation=fadeIn" width="100%"/>
+**📄 Free ATS Resume Checker**
+<br/><sub>Django · Python OOP · NLP · SQLite</sub>
 
-<br/>
+Parses PDF/DOCX resumes, scores ATS compatibility, and generates skill-based interview questions — plus a JD matcher showing keyword overlap and gaps.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:10162A&height=3&section=header&animation=fadeIn" width="100%"/>
+[🔗 GitHub Repo](https://github.com/24kamaljeetkaur/ats_checker_resumes)
 
-## Tech Stack
+</td>
+<td width="50%" valign="top">
+
+**🎯 AI Lead Discovery & Growth Agent**
+<br/><sub>Django · LangChain · Celery · Redis · PostgreSQL</sub>
+
+Autonomous agent that discovers, qualifies, scores and drafts outreach for B2B leads — RAG-grounded, with human approval before anything sends.
+
+[🔗 GitHub Repo](https://github.com/24kamaljeetkaur/leadgen)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🧩 Python OOP Problem-Solving Repository**
+<br/><sub>Python · OOP · NumPy · Pandas</sub>
+
+40+ standalone OOP programs plus four database-backed mini-systems (Bank Account, Student, Library, Employee & Payroll) — runnable proof of OOP fundamentals beyond a resume bullet.
+
+[🔗 GitHub Repo](https://github.com/24kamaljeetkaur/python-problem-solving)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=3&section=header&animation=fadeIn" width="100%"/>
+
+## 📚 Currently Learning
+
+```text
+  MCP  →  MCP Client & Server  →  Gemini  →  Google ADK
+    →  Multi-Agent Systems  →  A2A
+    →  AI Evaluation  →  Observability
+    →  Docker / Kubernetes  →  CI/CD / MLOps
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=3&section=header&animation=fadeIn" width="100%"/>
+
+## 🛠️ Tech Stack
 
 **Languages & Backend**
 <br/>
@@ -106,11 +189,18 @@ Outside of full-time work, I prototype with **LangChain, RAG, LangGraph, and age
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=3&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,100:10162A&height=3&section=header&animation=fadeIn" width="100%"/>
+## 🏆 Certifications & Achievements
 
-## GitHub Stats
+- **Google Cloud (2024)** — Secure Google Cloud Network · Networking & Security · Cloud Infrastructure (3 Skill Badges)
+- **Advanced WordPress Plugin Development**, **Angular** (Udemy Certified), **Google Analytics & SEO Certified**
+- 🌟 **"Star of the Month"** at Deep Dive Innovations Pvt. Ltd. (2021) — consistent performance and delivery
+- 💻 Participated in **"Zero to Hero"**, a 24-hour competitive coding event at Guru Nanak Dev University (2017)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=3&section=header&animation=fadeIn" width="100%"/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=24kamaljeetkaur&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
