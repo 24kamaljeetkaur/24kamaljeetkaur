@@ -32,53 +32,65 @@ Outside full-time work, I prototype with **LangChain, RAG, LangGraph, and agenti
 
 ## 🧭 My Journey
 
+<p><i>A vertical story of how I grew from building WordPress sites to owning a full-stack financial SaaS platform — and now, into GenAI and agentic systems.</i></p>
+
 <table>
 <tr>
-<td align="right" width="120" valign="top"><b>2025<br/>Present</b></td>
-<td align="center" width="24" valign="top">🟢<br/>│<br/>│</td>
+<td width="70" align="center" valign="top"><h2>17</h2></td>
 <td valign="top">
-<b>Full Stack Engineer</b> — Vriddhi Advisors Ltd. <sub>(Sofficio.com, Financial SaaS)</sub><br/>
-Sole full-stack owner of a financial SaaS platform across 5 modules — API design, auth, SQL performance, production debugging.
+<sub><b>2017 · Beginnings</b></sub>
+<h3>WordPress Developer</h3>
+Design To Webber &amp; OXO Solution Pvt. Ltd. — delivered WordPress themes, plugins and full websites for international clients, owning each project from requirement gathering to launch.
 </td>
 </tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=2&section=header&animation=fadeIn" width="100%"/></td></tr>
+
 <tr>
-<td align="right" width="120" valign="top"><b>2023<br/>2024</b></td>
-<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td width="70" align="center" valign="top"><h2>19</h2></td>
 <td valign="top">
-<b>Web Developer</b> — Amandeep Group of Hospitals<br/>
-Built a multi-site hospital digital ecosystem (15+ portals), a centralized lead-capture dashboard, and Angular reporting tools.
+<sub><b>2019 · Frontend Systems</b></sub>
+<h3>Web Designer &amp; Developer Trainer</h3>
+CKD Institute of Management and Technology, Amritsar — replaced manual paper-based college processes with Angular applications, and trained staff and students to use them.
 </td>
 </tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=2&section=header&animation=fadeIn" width="100%"/></td></tr>
+
 <tr>
-<td align="right" width="120" valign="top"><b>2021<br/>2023</b></td>
-<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td width="70" align="center" valign="top"><h2>21</h2></td>
 <td valign="top">
-<b>Web Developer</b> — Deepdive Innovations Pvt. Ltd.<br/>
-Owned client web projects end-to-end using HTML5, JavaScript and Angular.
+<sub><b>2021 · Full-Stack Web</b></sub>
+<h3>Web Developer</h3>
+Deepdive Innovations Pvt. Ltd. — owned client web projects end-to-end, from requirement analysis through build, test and deployment, using HTML5, JavaScript and Angular.
 </td>
 </tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=2&section=header&animation=fadeIn" width="100%"/></td></tr>
+
 <tr>
-<td align="right" width="120" valign="top"><b>2019<br/>2020</b></td>
-<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td width="70" align="center" valign="top"><h2>23</h2></td>
 <td valign="top">
-<b>Web Designer &amp; Developer Trainer</b> — CKD Institute of Management and Technology, Amritsar<br/>
-Digitized paper-based college workflows in Angular; trained staff and students on the new systems.
+<sub><b>2023 · Business Systems</b></sub>
+<h3>Web Developer</h3>
+Amandeep Group of Hospitals — built a multi-site hospital digital ecosystem across 15+ department portals, a centralized lead-capture dashboard, and Angular-based reporting tools.
 </td>
 </tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:4B8BBE,100:0B0F1A&height=2&section=header&animation=fadeIn" width="100%"/></td></tr>
+
 <tr>
-<td align="right" width="120" valign="top"><b>2017<br/>2019</b></td>
-<td align="center" width="24" valign="top">│<br/>🔵<br/>│</td>
+<td width="70" align="center" valign="top"><h2>25</h2></td>
 <td valign="top">
-<b>WordPress Developer</b> — Design To Webber &amp; OXO Solution Pvt. Ltd.<br/>
-Delivered WordPress themes, plugins and full sites for international clients.
+<sub><b>2025 · SaaS Ownership</b></sub>
+<h3>Full Stack Engineer</h3>
+Vriddhi Advisors Ltd. (Sofficio.com) — sole full-stack owner of a live financial SaaS platform across 5 modules: API design, authentication, SQL performance, and production debugging.
 </td>
 </tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:FFD43B,100:0B0F1A&height=2&section=header&animation=fadeIn" width="100%"/></td></tr>
+
 <tr>
-<td align="right" width="120" valign="top"><b>2019<br/>2022</b></td>
-<td align="center" width="24" valign="top">🎓</td>
+<td width="70" align="center" valign="top">🟢<h2>26</h2></td>
 <td valign="top">
-<b>MCA</b> — Guru Nanak Dev University, Amritsar<br/>
-The foundation behind the OOP and systems design work since.
+<sub><b>2026 · AI Expansion — Current</b></sub>
+<h3>GenAI &amp; Agentic Systems</h3>
+Building on the full-stack foundation with LangChain, RAG, LangGraph and MCP — including a self-hosted lead-generation agent and Gemini Vision-powered image pipelines.
 </td>
 </tr>
 </table>
@@ -193,8 +205,33 @@ Autonomous agent that discovers, qualifies, scores and drafts outreach for B2B l
 
 ## 🏆 Certifications & Achievements
 
-- **Google Cloud (2024)** — Secure Google Cloud Network · Networking & Security · Cloud Infrastructure (3 Skill Badges)
+**Google Cloud — Skill Badges (2024)**
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://design-build-solution.web.app/img/build-secure-google-cloud-network.png" width="100%"/><br/>
+<sub><b>Build a Secure<br/>Google Cloud Network</b></sub>
+</td>
+<td width="25%" align="center">
+<img src="https://design-build-solution.web.app/img/networking-security-google-cloud.png" width="100%"/><br/>
+<sub><b>Networking &amp; Security<br/>in Google Cloud</b></sub>
+</td>
+<td width="25%" align="center">
+<img src="https://design-build-solution.web.app/img/infrastructure-google-cloud.png" width="100%"/><br/>
+<sub><b>Infrastructure<br/>in Google Cloud</b></sub>
+</td>
+<td width="25%" align="center">
+<img src="https://design-build-solution.web.app/img/google-cloud-fundamentals-aws-professionals.png" width="100%"/><br/>
+<sub><b>Google Cloud Fundamentals<br/>for AWS Professionals</b></sub>
+</td>
+</tr>
+</table>
+
+**Other Certifications**
 - **Advanced WordPress Plugin Development**, **Angular** (Udemy Certified), **Google Analytics & SEO Certified**
+
+**Achievements**
 - 🌟 **"Star of the Month"** at Deep Dive Innovations Pvt. Ltd. (2021) — consistent performance and delivery
 - 💻 Participated in **"Zero to Hero"**, a 24-hour competitive coding event at Guru Nanak Dev University (2017)
 
