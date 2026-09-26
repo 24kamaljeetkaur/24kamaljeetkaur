@@ -587,13 +587,10 @@ Monitoring
 
 # 📊 Contribution Graph
 
+
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=24kamaljeetkaur&theme=github-compact&hide_border=true"
-  width="100%"
-  alt="Kamaljeet Kaur GitHub Contribution Graph"
-/>
+<img src="https://streak-stats.demolab.com/?user=24kamaljeetkaur&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
